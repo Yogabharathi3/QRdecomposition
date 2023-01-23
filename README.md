@@ -57,6 +57,7 @@ QR_Decomposition(a)
 ```
 ## Output
 
+
 ![](QR1.png)
 ![](QR2.png)
 
